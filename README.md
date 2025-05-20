@@ -91,6 +91,7 @@ page2
 
 ~~~
 # OUTPUT:
+![Uploading output.jpeg…]()
 
 
 # RESULT:
