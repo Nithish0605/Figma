@@ -91,8 +91,7 @@ page2
 
 ~~~
 # OUTPUT:
-![Uploading output.jpeg…]()
-
+![output](https://github.com/user-attachments/assets/5479ffee-9847-4e74-843d-96a08225f8b1)
 
 # RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
